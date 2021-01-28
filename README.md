@@ -1,4 +1,4 @@
-# Welcome to my Virtual Resume
+# Jack Shrader Virtual Resume
 
 I'm a Software Engineer
 
