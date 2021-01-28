@@ -10,5 +10,5 @@ I'm a Software Engineer
 
 ### Widener University
 
-**Bachelor of Science**\s\s
-**Class of 2017**\s\s
+**Bachelor of Science**  
+**Class of 2017**  
