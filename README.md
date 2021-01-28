@@ -9,4 +9,6 @@ I'm a Software Engineer
 ## Education
 
 ### Widener University
-#### Class of 2017 
+
+**Class of 2017**
+**Bachelor of Science**
